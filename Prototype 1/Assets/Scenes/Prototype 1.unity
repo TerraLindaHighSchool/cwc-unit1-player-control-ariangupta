@@ -1160,6 +1160,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b4d0cc177d686b442888b995771598d4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  player: {fileID: 640636976}
 --- !u!1001 &578002886
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1302,7 +1303,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33e602c60b113d749bee80df6e399adc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 35
 --- !u!1001 &647260522
 PrefabInstance:
   m_ObjectHideFlags: 0
